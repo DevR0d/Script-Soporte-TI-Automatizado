@@ -1,5 +1,11 @@
 # 🛠️ Kit de Soporte TI Automatizado
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![PowerShell](https://img.shields.io/badge/language-PowerShell-blue)
+![Windows](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Friendly](https://img.shields.io/badge/ui-friendly-orange)
+
 Este proyecto proporciona un **script integral de mantenimiento y soporte TI** en PowerShell, acompañado de un archivo `.bat` para programar su ejecución automática mediante el **Programador de tareas de Windows**.  
 Está diseñado para técnicos de soporte que necesiten una herramienta **profesional, amigable y auditable**.
 
