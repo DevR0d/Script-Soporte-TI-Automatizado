@@ -69,3 +69,8 @@ Está diseñado para técnicos de soporte que necesiten una herramienta **profes
 <tr><td>2026-10-09 08:05:12</td><td>Optimización</td><td>Desfragmentación disco C</td></tr>
 <tr><td>2026-10-09 08:15:30</td><td>Reparación</td><td>SFC /scannow ejecutado</td></tr>
 </table>
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+Puedes usarlo, modificarlo y compartirlo libremente, siempre que me des crédito y no lo utilices con fines comerciales.
