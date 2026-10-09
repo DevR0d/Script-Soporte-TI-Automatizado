@@ -58,7 +58,6 @@ Está diseñado para técnicos de soporte que necesiten una herramienta **profes
      - `Mantenimiento_Log.html`
 
 ---
-
 ## 📊 Ejemplo de reporte HTML
 
 ```html
@@ -69,6 +68,8 @@ Está diseñado para técnicos de soporte que necesiten una herramienta **profes
 <tr><td>2026-10-09 08:05:12</td><td>Optimización</td><td>Desfragmentación disco C</td></tr>
 <tr><td>2026-10-09 08:15:30</td><td>Reparación</td><td>SFC /scannow ejecutado</td></tr>
 </table>
+```
+---
 
 ## 📜 Licencia
 
